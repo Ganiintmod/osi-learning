@@ -1,2 +1,2 @@
 # osi-learning
-Желілік хаттамалар және OSI моделі
+index.html
